@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BootCampDIOJava.iml" filepath="$PROJECT_DIR$/BootCampDIOJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02-anatomia-das-classes.iml" filepath="$PROJECT_DIR$/_02-anatomia-das-classes.iml" />
     </modules>
   </component>
 </project>

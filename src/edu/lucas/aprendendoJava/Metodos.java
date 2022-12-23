@@ -1,3 +1,5 @@
+package edu.lucas.aprendendoJava;
+
 public class Metodos {
     // Estrutura do Metodo
     //TipoRetorno NomeObjetivoNoInfinitivo Parametro(s)

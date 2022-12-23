@@ -1,3 +1,5 @@
+package edu.lucas.aprendendoJava;
+
 public class MinhaClasse {
 //    public static void main(String[] args) {
 //        System.out.print("Iniciando com Java");
